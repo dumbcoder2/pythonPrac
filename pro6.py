@@ -39,7 +39,7 @@ b=len(name)
 if(b<=10):
     print("your name is valid")
     
-5>wap to find a name is present in list or not
+# 5>wap to find a name is present in list or not
 a=["nikhil","aman","khaif","akshat","billu"]
 name=input("enter your name: ")
 if name in a:
