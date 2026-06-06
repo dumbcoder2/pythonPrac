@@ -1,4 +1,4 @@
-# stone","paper" and "scissor
+#  stone","paper" and "scissor
 
 import random
 
