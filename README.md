@@ -11,4 +11,4 @@ This repo contains programs, exercises, and small projects that I created while 
 - File Handling
 - Basic Problem Solving
 - Simple Python Projects
-- -2 master project on python
+- -2 master project on python.
